@@ -19,6 +19,7 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 
 **Course**
+
 -Learn using [Hex-Rays (IDA Pro) Decompiler](https://www.hex-rays.com/products/decompiler/) AND/OR [Snowman](https://github.com/yegord/snowman). Though not covered, Static Analysis teaches you connecting the dots.
 
 -Use rdesktop with -g parameter i.e. "rdesktop -g 80% 127.0.0.1"
