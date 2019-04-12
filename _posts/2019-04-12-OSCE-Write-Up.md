@@ -24,6 +24,8 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 -Use rdesktop with -g parameter i.e. "rdesktop -g 80% 127.0.0.1"
 
+-Spike works, Use Wireshark to doublecheck. If you don't **like it** for some reason, Use Boofuzz.
+
 -Do all exercises.
 
 
