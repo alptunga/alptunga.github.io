@@ -33,6 +33,7 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 
 **Exam**
+
 -Use Immunity & Mona.py. Never "Open", Always "Attach". Second part cost me 100$ and 2 Weeks.
 
 -Sleep and take breaks.
