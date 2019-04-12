@@ -1,8 +1,8 @@
-[Gitlab Profile](https://gitlab.com/alptunga)
+* [Gitlab Profile](https://gitlab.com/alptunga)
 
-[Github Profile](https://github.com/alptunga/)
+* [Github Profile](https://github.com/alptunga/)
 
-[Twitter Profile](https://twitter.com/arcanuslink)
+* [Twitter Profile](https://twitter.com/arcanuslink)
 
 
 
