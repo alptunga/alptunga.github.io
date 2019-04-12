@@ -4,7 +4,7 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 ---
 
-**This post is not a write up per se. It is a list of short notes helped me learn most from both course and the exam and not noted in popular write-ups**
+**This post is not a write up per se. It is a list of short notes helped me learn most from both course and the exam and not noted in popular write-ups.**
 
 
 **Preparation**
