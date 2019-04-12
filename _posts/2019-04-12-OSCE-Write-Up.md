@@ -32,7 +32,6 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 -Sleep and take breaks.
 
--text
 
 
 
@@ -40,8 +39,3 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
