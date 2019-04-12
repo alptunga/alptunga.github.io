@@ -1,13 +1,9 @@
 ---
-
 layout: post
 title: Offensive Security 's Certified Expert (OSCE) Notes.
+---
 
-
-
-# Welcome
-
-Here are the notes on about my experience. Hoping it will be beneficial to someone.
+#Here are the notes on about my experience. Hoping it will be beneficial to someone.
 
 Use Immunity & Mona.py.
 
