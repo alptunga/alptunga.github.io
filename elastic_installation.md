@@ -4,5 +4,5 @@ Properly setting environmental variables.
 -Edit "Path", add "%JAVA_HOME%\bin\" and "%JAVA_HOME%\bin\server\" without quotes.
 -If there is excess comma in any of these values use "Edit" button to set the values.
 
-elasticsearch.bat || elasticsearch-service*.bat should run fine.
+elasticsearch.bat OR elasticsearch-service*.bat should run fine.
 
