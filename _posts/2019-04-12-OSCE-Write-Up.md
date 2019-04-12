@@ -13,3 +13,11 @@ Never "Open", Always "Attach".
 Backtrack is prehistoric. Use Kali32 latest side by side.
 
 Master lisf of write-ups. https://www.abatchy.com/2017/03/osce-study-plan.html
+
+
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
