@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 title: Offensive Security 's Certified Expert (OSCE) Notes.
+
 ---
 
 #Here are the notes on about my experience. Hoping it will be beneficial to someone.
