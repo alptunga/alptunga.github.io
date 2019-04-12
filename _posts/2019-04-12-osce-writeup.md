@@ -3,7 +3,7 @@
 layout: post
 title: Offensive Security 's Certified Expert (OSCE) Notes.
 
----
+
 
 # Welcome
 
