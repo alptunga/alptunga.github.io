@@ -18,3 +18,6 @@
     </li>
   {% endfor %}
 </ul>
+
+## My Twitter Feed ##
+<a class="twitter-timeline" href="https://twitter.com/arcanuslink?ref_src=twsrc%5Etfw">Tweets by arcanuslink</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
