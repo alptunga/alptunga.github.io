@@ -1,9 +1,7 @@
 ---
-
-layout: post
+layout: default
 title: Windows 10 Elastic Search Installation
-
-
+---
 # Welcome
 
 Properly setting environmental variables.
