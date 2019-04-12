@@ -28,6 +28,8 @@ title: Offensive Security 's Certified Expert (OSCE) Notes.
 
 -Do all exercises.
 
+-Use Offsec Forums and Support. Those are there to teach you without spoiling the content.
+
 
 
 **Exam**
